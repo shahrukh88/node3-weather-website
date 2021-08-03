@@ -1,4 +1,4 @@
-console.log('client side java scripet file is loade')
+
 
 
 
